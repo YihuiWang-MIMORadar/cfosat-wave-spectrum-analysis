@@ -4,3 +4,4 @@ scipy
 matplotlib
 xarray
 netCDF4
+PyYAML
