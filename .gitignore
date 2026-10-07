@@ -1,0 +1,30 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# VS Code
+.vscode/
+
+# Large scientific data
+data/
+raw_data/
+*.nc
+*.nc4
+*.h5
+*.hdf5
+*.bin
+*.tif
+*.tiff
+
+# Local path configuration
+configs/paths.yaml
+
+# Environment variables / secrets
+.env

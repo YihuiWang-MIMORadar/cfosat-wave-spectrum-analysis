@@ -1,0 +1,4 @@
+cfosat_data: /path/to/CFOSAT
+ndbc_data: /path/to/NDBC
+fy3e_data: /path/to/FY3E
+output_dir: /path/to/output
